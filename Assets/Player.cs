@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    // ¸}¦â±±¨î
     CharacterController controller;
     public float speed = 3;
 
